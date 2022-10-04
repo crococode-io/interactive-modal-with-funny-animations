@@ -1,6 +1,6 @@
 # Interactive Modal with Funny Animations
 
-An interactive modal window with funny animations and colorful characters, built using CSS3, jQuery and GSAP's TweenMax. 
+An interactive modal window with funny animations and colorful characters, built using CSS3, Javascript and GSAP's TweenMax. 
 
 ![Interactive Modal with Funny Animations](https://raw.githubusercontent.com/crococode-io/images/main/interactive-modal-with-funny-animations.png)
 
